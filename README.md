@@ -1,3 +1,3 @@
 # MiAnticheat
- Simple anticheat plugin for MiNET
+ Simple anticheat plugin for MiNET<br>
  In development!
